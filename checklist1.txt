@@ -1,0 +1,16 @@
+Registration:
+	Email:
+	Social network:
+	Validating fields:
+Authorization:
+	User active:
+	User in noot active:
+	Password recovery:
+	Validating fields:
+Profile:
+	Chenge name:
+	Chenge email:
+	Chenge password:
+	Validating fields:
+	subscription:
+	Deleted account:
